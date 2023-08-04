@@ -1,0 +1,25 @@
+.button{
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    background-color: #ba181b;
+    border-radius: 25px;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #f7d2d8;
+    font-weight: bold;
+    padding: 10px;
+    margin: 15px;
+}
+
+body{
+    background-color: #ffffff;
+    margin: 0;
+}
+
+nav{
+    background-color: #f5f3f4;
+    margin: 0;
+}
